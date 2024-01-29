@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Ulaş
 
-Hello, I'm Ulaş. I’m an aspiring software developer who wants to work in back-end web development. Currently, I am eager to build a career in the software industry, continuously improving my skills to achieve this goal. Here you can find some of the projects I’ve been working on.
+I’m an aspiring software developer who wants to work in back-end web development. Currently, I am eager to build a career in the software industry, continuously improving my skills to achieve this goal. Here you can find some of the projects I’ve been working on.
 
 📨 Reach me: ulasgulhan9@gmail.com
 
