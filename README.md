@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Ulaş
+### Hi there 👋 I'm Ulaş Gülhan
 
-I’m an aspiring software developer who wants to work in back-end web development. Currently, I am eager to build a career in the software industry, continuously improving my skills to achieve this goal. Here you can find some of the projects I’ve been working on.
+I’m a Turkish software developer with 1 year of experience, currently working at Orphex as a Software Engineer/Python Developer on SaaS and RAG projects.
 
 📨 Reach me: ulasgulhan9@gmail.com
 
